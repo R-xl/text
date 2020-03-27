@@ -1,5 +1,5 @@
 1
-  Systm.out.print("Hello");
+  System.out.print("Hello");
 
 
 
